@@ -141,7 +141,7 @@ class WordPress_priv8Bf(object):
               WPBforce By ./RLolzSec
         
         ---------------------------------------------------------------
-        |                     G45 CYBER TEAM                          |
+        |                     {+} Banten Black Hat {+}                |
         |=============================================================|
         | AUTHOR           : ./RLolzSec                               |
         | Contack WhatsApp : +6281703762177                           |
